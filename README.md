@@ -1,4 +1,4 @@
-mybatis-hsqldb
+TESTS
 ==============
 
 various small POC's
